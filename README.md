@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Ashraf</h1>
 <h3 align="center">Software Engineer, Backend Development using Python</h3>
-# 📄 README
 
 ## 👋 About Me
 
