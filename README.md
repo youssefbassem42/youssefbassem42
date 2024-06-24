@@ -1,5 +1,48 @@
 <h1 align="center">Hi 👋, I'm Youssef Ashraf</h1>
 <h3 align="center">Software Engineer, Backend Development using Python</h3>
+# 📄 README
+
+## 👋 About Me
+
+**Name:** Youssef Ashraf  
+**Age:** 21  
+
+## 🎓 Education
+
+- **University:** Faculty of Science, Assiut University
+- **Year:** Final Year
+- **CGPA:** 3.53
+
+## 💻 Skills
+
+### Programming Languages
+- **C Language**: Proficient in writing efficient and optimized code.
+- **C++**: Experienced in object-oriented programming and advanced concepts.
+- **Python**: Skilled in scripting, data analysis, and automation.
+
+### Development Tools
+- **Git & GitHub**: Version control and collaboration.
+- **Bash Scripting**: Automating tasks in Unix environments.
+- **Shell Command Line**: Expertise in Unix/Linux commands.
+
+### Databases
+- **MySQL**: Database management and queries.
+- **SQL**: Proficient in writing and optimizing queries.
+
+### Web Development
+- **HTML & CSS**: Building and styling web pages.
+
+### Other Skills
+- **Data Structures & Algorithms**: Strong foundation in computer science principles.
+- **API Development**: Building and consuming APIs.
+
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+---
+
+Feel free to connect with me for any collaboration or professional inquiries. Looking forward to making an impact in the tech world! 🚀
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
