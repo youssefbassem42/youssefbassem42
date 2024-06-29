@@ -10,7 +10,7 @@
 
 - **University:** Faculty of Science, Assiut University
 - **Year:** Final Year
-- **CGPA:** 3.53
+- **CGPA:** 3.6
 
 ## 💻 Skills
 
