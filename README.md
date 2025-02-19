@@ -4,13 +4,13 @@
 ## 👋 About Me
 
 **Name:** Youssef Ashraf  
-**Age:** 21  
+**Age:** 22  
 
 ## 🎓 Education
 
 - **University:** Faculty of Science, Assiut University
 - **Year:** Final Year
-- **CGPA:** 3.61
+- **CGPA:** 3.63
 
 ## 💻 Skills
 
